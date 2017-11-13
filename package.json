@@ -1,12 +1,16 @@
 {
   "name": "cordova-plugin-baidugeolocation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "cordova": {
     "id": "cordova-plugin-baidugeolocation",
     "platforms": [
       "android",
-      "ios",
+      "ios"
     ]
   },
-  "description": "A starting point for a Cordova Plugin"
+  "description": "A geolocation cordova plugin with baidu location ",
+  "keywords": [
+    "geolocation",
+    "baidugeolocation"
+  ]
 }

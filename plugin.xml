@@ -2,12 +2,12 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-baidugeolocation" version="1.0.0">
-    <name>Cordova Plugin Template</name>
+    <name>Cordova Plugin BaiduGeolocation</name>
     <description></description>
     <license>MIT</license>
     <keywords></keywords>
-    <repo>https://github.com/driftyco/cordova-plugin-template.git</repo>
-    <issue>https://github.com/driftyco/cordova-plugin-template/issues</issue>
+    <repo>https://github.com/zjw1918/cordova-plugin-baidugeolocation</repo>
+    <issue>https://github.com/zjw1918/cordova-plugin-baidugeolocation/issues</issue>
 
     <preference name="ANDROID_KEY" default=""/>
 
@@ -25,7 +25,6 @@
           <param name="onload" value="true" />
         </feature>
       </config-file>
-
 
         <config-file target="AndroidManifest.xml" parent="/*">
             <!-- 这个权限用于进行网络定位-->
