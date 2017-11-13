@@ -4,7 +4,7 @@
 
 ### 安装
 
-cordova plugin add cordova-plugin-baidumaplocation --variable ANDROID_KEY=YOUR_BAIDU_ANDROID_APIKEY
+cordova plugin add cordova-plugin-baidugeolocation --variable ANDROID_KEY=YOUR_BAIDU_ANDROID_APIKEY
 
 ### 用法
 ```js
