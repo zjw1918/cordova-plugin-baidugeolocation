@@ -1,16 +1,31 @@
 {
   "name": "cordova-plugin-baidugeolocation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "cordova": {
     "id": "cordova-plugin-baidugeolocation",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "description": "A geolocation cordova plugin with baidu location ",
   "keywords": [
     "geolocation",
-    "baidugeolocation"
-  ]
+    "baidugeolocation",
+    "cordova",
+    "baidu",
+    "location",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "zjw1918",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjw1918/cordova-plugin-baidugeolocation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zjw1918/cordova-plugin-baidugeolocation/issues"
+  },
+  "homepage": "https://github.com/zjw1918/cordova-plugin-baidugeolocation#readme"
 }

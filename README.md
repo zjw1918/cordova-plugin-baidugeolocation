@@ -31,6 +31,7 @@ BaiduGeolocation.getCurrentPosition(function (res) {
 ### 说明
 1. ios定位可以直接用cordova-plugin-geolocation, 没有必要再造轮子。返回wgs的经纬度。
 2. 这个插件调用的百度定位sdk。返回bd09ll的经纬度。
+3. It is the same way to use in ionic, cordova, typescript, plainjs.
 
 ### 参考：
 
